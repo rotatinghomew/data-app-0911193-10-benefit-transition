@@ -1,0 +1,3 @@
+change_id,effective_on,facility,change_type,from_value,to_value
+C01,2026-09-01,F01,hours,day,closed
+C02,2026-09-01,F02,service,parcel,meal

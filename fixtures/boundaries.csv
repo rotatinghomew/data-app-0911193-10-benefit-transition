@@ -1,0 +1,5 @@
+version,block,facility,walk_minutes
+v1,B01,F01,6
+v1,B02,F03,9
+v2,B01,F02,8
+v2,B02,F03,7

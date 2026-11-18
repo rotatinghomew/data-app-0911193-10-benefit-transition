@@ -1,0 +1,5 @@
+period,block,facility,group_count,boundary_version
+2026-08,B01,F01,44,v1
+2026-09,B01,F02,31,v2
+2026-08,B02,F03,12,v1
+2026-09,B02,F03,19,v2
